@@ -116,9 +116,9 @@ A Java-based application demonstrating core e-commerce functionalities and objec
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** [Shilpa M](https://www.linkedin.com/in/shilpa-m-742892325)
+💼 **LinkedIn:** https://www.linkedin.com/in/shilpa-m-742892325
 
-🐙 **E-Mail:** [Shilpa M](shilpamaski67@gmail.com)
+🐙 **E-Mail:** shilpamaski67@gmail.com
 
 ---
 
