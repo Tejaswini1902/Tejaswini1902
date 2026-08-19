@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shilpa M
+#  Shilpa M
 
 ### 💻 Computer Science & Engineering | Java Developer | Web Development
 
